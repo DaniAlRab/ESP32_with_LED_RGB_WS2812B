@@ -5,7 +5,7 @@ but This intelligent-controlled LED can work in series with many other LEDs.
 
 Components:
 
- - ESP32
+ - ESP32 - Wroom
  - LED - WS2812B 
 
 Software:
