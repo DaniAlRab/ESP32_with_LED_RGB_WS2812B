@@ -1,6 +1,6 @@
 # ESP32_with_LED_RGB_WS2812B
 
-This small project involves using an ESP32 to work with two LEDs in series.
+This small project involves using an ESP32 to work with two LEDs WS2812B in series.
 but This intelligent-controlled LED can work in series with many other LEDs.
 
 Components:
