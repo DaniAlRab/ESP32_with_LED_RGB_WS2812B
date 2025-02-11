@@ -73,12 +73,30 @@ ESP32_with_LED_RGB_WS2812B/
 │── README.md                     # Project documentation
 ```
 
+## 📷 Images
+
+### ESP32 Pinout
+![ESP32 Pinout](ESP32_pinout.png)
+
+### WS2812B Pinout
+![WS2812B Pinout](WS2812B_pinout.jpeg)
+
+### LED Wiring Diagram (2 LEDs in Series)
+![2 LEDs in Series](2_LEDs_in_series.jpeg)
+
+### Arduino ESP32 Board Configuration
+![Arduino ESP32 Configuration](Arduino_ESP32_config.png)
+
+### Arduino IDE Version
+![Arduino IDE Version](Arduino_version.png)
+
+### Arduino Code Example Preview
+![Arduino Code Example](arduino_code_WS2812B_0.jpeg)
+![Arduino Code Example](arduino_code_WS2812B_1.jpeg)
+
 ## ⚙️ Configuration
 - **LED_PIN**: GPIO pin used to control WS2812B LEDs (default: **5**).
 - **NUM_LEDS**: Number of LEDs in the strip (adjust as needed).
 
 ## 🤝 Contributing
 Feel free to open issues or submit pull requests.
-
-## 📜 License
-This project is licensed under the MIT License.
